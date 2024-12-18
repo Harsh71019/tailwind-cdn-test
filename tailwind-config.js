@@ -22,7 +22,7 @@ window.SHARED_TAILWIND_CONFIG = {
         },
         button: {
           primary: {
-            bg: '#d4d4d4',
+            bg: '#d4d434',
             text: '#333333',
             hoverBg: '#b9ced9',
             border: '#C5C5C5',
