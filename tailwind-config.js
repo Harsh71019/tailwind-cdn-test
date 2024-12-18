@@ -1,4 +1,4 @@
-window.SHARED_TAILWIND_CONFIG = {
+module.exports = {
   theme: {
     extend: {
       colors: {
